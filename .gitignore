@@ -1,0 +1,23 @@
+# Scaffold-only allowlist. Revisit when preparing the accepted software release.
+/*
+!/.gitignore
+!/README.md
+!/src/
+!/docs/
+!/examples/
+!/tests/
+!/assets/
+!/.github/
+
+/src/*
+!/src/.gitkeep
+/docs/*
+!/docs/.gitkeep
+/examples/*
+!/examples/.gitkeep
+/tests/*
+!/tests/.gitkeep
+/assets/*
+!/assets/.gitkeep
+/.github/*
+!/.github/.gitkeep
